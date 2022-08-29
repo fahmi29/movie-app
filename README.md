@@ -8,8 +8,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-First of All run npm install for install all depedency on this project.
-Pertama ketikan 
+First of All run `npm install` for install all depedency on this project.
 
 ### `npm start`
 
